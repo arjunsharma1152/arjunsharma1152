@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun Sharma
-- 👀 I’m interested in Programming,Web development
+- 👀 I’m interested in Competitive Programming,Web Development
 - 🌱 I’m currently learning Data structure and Algorithm
 - 📫 How to reach me arjunsk923@gmail.com
 
