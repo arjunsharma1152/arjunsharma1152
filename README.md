@@ -27,5 +27,3 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunsharma1152&theme=dark&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsharma1152&layout=compact&theme=vision-friendly-dark)
-
-![GitHub Snake dark](https://github.com/arjunsharma1152/arjunsharma1152/blob/output/github-contribution-grid-snake-dark.svg)
