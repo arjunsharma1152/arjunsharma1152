@@ -23,8 +23,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 
-### :fire: My Stats :
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunsharma1152&theme=dark&background=000000)
-
+###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsharma1152&layout=compact&theme=vision-friendly-dark)
